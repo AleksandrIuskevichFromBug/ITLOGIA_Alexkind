@@ -1,1 +1,7 @@
-
+h1 {
+    color: green;
+    background: yellow;
+    padding: 50px;
+    border: 2px solid black;
+    border-radius: 30px;
+}
